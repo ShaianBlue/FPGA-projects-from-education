@@ -1,0 +1,15 @@
+# Assignment of the LED signal
+NET "LED" LOC = M5;
+# Assignment of the SW signal
+NET "SW[7]" LOC = N3;
+NET "SW[6]" LOC = E2;
+NET "SW[5]" LOC = F3;
+NET "SW[4]" LOC = G3;
+NET "SW[3]" LOC = B4;
+NET "SW[2]" LOC = K3;
+NET "SW[1]" LOC = L3;
+NET "SW[0]" LOC = P11;
+# Assignment of the BTN signal
+NET "BTN3" LOC = A7;
+# Assignment of the Clk signal
+NET "MClk" LOC = B8;
