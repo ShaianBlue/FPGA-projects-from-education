@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/shaia/OneDrive/Bachelor/2. Semester/30082 - Projektarbejde i Digitaldesign/Signalgenerator/BTNdb.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/shaia/OneDrive/Bachelor/2. Semester/30082 - Projektarbejde i Digitaldesign/Signalgenerator/DivClk.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/shaia/OneDrive/Bachelor/2. Semester/30082 - Projektarbejde i Digitaldesign/Signalgenerator/Modul1.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/shaia/OneDrive/Bachelor/2. Semester/30082 - Projektarbejde i Digitaldesign/Signalgenerator/SevenSeg5.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/shaia/OneDrive/Bachelor/2. Semester/30082 - Projektarbejde i Digitaldesign/Signalgenerator/SigGenDatapath.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/shaia/OneDrive/Bachelor/2. Semester/30082 - Projektarbejde i Digitaldesign/Signalgenerator/SigGenTop.vhd&quot; into library work</arg>
+</msg>
+
+</messages>
+
