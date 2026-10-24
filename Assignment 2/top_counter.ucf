@@ -1,0 +1,39 @@
+# Assignment of the LED signal
+NET "LED[7]" LOC = G1;
+NET "LED[6]" LOC = P4;
+NET "LED[5]" LOC = N4;
+NET "LED[4]" LOC = N5;
+NET "LED[3]" LOC = P6;
+NET "LED[2]" LOC = P7;
+NET "LED[1]" LOC = M11;
+NET "LED[0]" LOC = M5;
+# Assignment of the SW signal
+NET "SW[7]" LOC = N3;
+NET "SW[6]" LOC = E2;
+NET "SW[5]" LOC = F3;
+NET "SW[4]" LOC = G3;
+NET "SW[3]" LOC = B4;
+NET "SW[2]" LOC = K3;
+NET "SW[1]" LOC = L3;
+NET "SW[0]" LOC = P11;
+# Assignment of the BTN signal
+NET "BTN0" LOC = G12;
+NET "BTN1" LOC = C11;
+NET "BTN2" LOC = M4;
+NET "BTN3" LOC = A7;
+# Assignment of the Clk signal
+NET "Clk50" LOC = B8;
+# Assignment of the anode
+NET "Anode[3]" LOC = K14;
+NET "Anode[2]" LOC = M13;
+NET "Anode[1]" LOC = J12;
+NET "Anode[0]" LOC = F12;
+# Assignment of the cathode
+NET "Cathode[7]" LOC = L14;
+NET "Cathode[6]" LOC = H12;
+NET "Cathode[5]" LOC = N14;
+NET "Cathode[4]" LOC = N11;
+NET "Cathode[3]" LOC = P12;
+NET "Cathode[2]" LOC = L13;
+NET "Cathode[1]" LOC = M12;
+NET "Cathode[0]" LOC = N13;
